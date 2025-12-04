@@ -24,10 +24,8 @@ python creature_simulation.py
 ```
 final-exam/
 ├── README.md                           # Project documentation
-|
 ├── problem.py                          # main program
-|
-├── screenshot.png                       # screenshot of the final input
+├── screenshot.png                      # screenshot of the final input
 ```
 
 ---
